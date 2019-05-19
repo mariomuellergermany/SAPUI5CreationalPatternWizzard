@@ -1,0 +1,2 @@
+# SAPUI5CreationalPatternWizzard
+SAPUI5 App that demonstrates JAVAScript CreationPatterns
